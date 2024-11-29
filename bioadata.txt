@@ -1,0 +1,5 @@
+bioadata
+
+nama: Sebastian Tumpal Sinamo Rambe
+kelas: 4IA26
+npm: 51421400
